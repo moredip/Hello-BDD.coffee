@@ -12,3 +12,7 @@ describe 'my node module', ->
   it 'should have the function defined', ->
     expect(my_module.my_function).toBeDefined()
     expect(my_module.my_function()).toBe('return value from my function')
+
+  it 'can multiply two numbers', ->
+    expect(my_module.multiply(3,4)).toBe(12)
+
