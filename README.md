@@ -24,3 +24,6 @@ These instructions are for OS X. You'll need to adapt them if you're on Linux or
      
     # install npm packages
     npm install jasmine-node coffee-script
+
+## RESOURCES
+[Little Book of CoffeeScript](http://arcturo.github.com/library/coffeescript/)
